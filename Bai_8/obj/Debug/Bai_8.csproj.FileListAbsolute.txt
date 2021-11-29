@@ -1,0 +1,12 @@
+D:\study\LT .NET\Buoi_9\Bai_8\bin\Debug\Bai_8.exe.config
+D:\study\LT .NET\Buoi_9\Bai_8\bin\Debug\Bai_8.exe
+D:\study\LT .NET\Buoi_9\Bai_8\bin\Debug\Bai_8.pdb
+D:\study\LT .NET\Buoi_9\Bai_8\obj\Debug\Bai_8.csproj.AssemblyReference.cache
+D:\study\LT .NET\Buoi_9\Bai_8\obj\Debug\Bai_8.Form1.resources
+D:\study\LT .NET\Buoi_9\Bai_8\obj\Debug\Bai_8.Properties.Resources.resources
+D:\study\LT .NET\Buoi_9\Bai_8\obj\Debug\Bai_8.csproj.GenerateResource.cache
+D:\study\LT .NET\Buoi_9\Bai_8\obj\Debug\Bai_8.csproj.CoreCompileInputs.cache
+D:\study\LT .NET\Buoi_9\Bai_8\obj\Debug\Bai_8.exe
+D:\study\LT .NET\Buoi_9\Bai_8\obj\Debug\Bai_8.pdb
+D:\study\LT .NET\Buoi_9\Bai_8\bin\Debug\Dapper.dll
+D:\study\LT .NET\Buoi_9\Bai_8\bin\Debug\Dapper.xml
